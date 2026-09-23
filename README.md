@@ -63,8 +63,8 @@ This project is based on the open-source StudyMate application. I have made the 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/nhunguy-swe/OpenStudyManager
-cd OpenStudyManager
+git clone https://github.com/nhunguy-swe/studymate-plus
+cd studymate-plus
 ```
 
 2. Install dependencies
@@ -124,7 +124,7 @@ yarn build
 ## 📁 Project Structure
 
 ```
-OpenStudyManager/
+studymate-plus/
 ├── public/
 │   └── sounds/          # Notification sound files
 ├── src/
